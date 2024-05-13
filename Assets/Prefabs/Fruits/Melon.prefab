@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6746182822342876223}
   - component: {fileID: 7262088979438573127}
   - component: {fileID: 9044230363730789171}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Melon
   m_TagString: Fruit
   m_Icon: {fileID: 0}
@@ -121,6 +121,7 @@ MonoBehaviour:
   - {fileID: 2141908268, guid: b10bf23b6a2a13e41a80a33a0deadc6a, type: 3}
   - {fileID: -300349480, guid: b10bf23b6a2a13e41a80a33a0deadc6a, type: 3}
   - {fileID: 1231174292, guid: b10bf23b6a2a13e41a80a33a0deadc6a, type: 3}
+  sliced: 0
   sliceSounds:
   - {fileID: 8300000, guid: 7a9ee9f23a99e694782b902429afdf67, type: 3}
   - {fileID: 8300000, guid: 0cc40ffe378dd294c993f4624505394f, type: 3}
@@ -128,6 +129,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: e26ec63447773d74a904476af2950537, type: 3}
   ps: {fileID: 6893040413587542514}
   player: {fileID: 0}
+  audioSrc: {fileID: 0}
   minVelx: -5
   maxVelx: 5
   minVely: 8
@@ -142,7 +144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6388528889904979571}
   - component: {fileID: 5073832913419776363}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Audio Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -270,7 +272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6275746542561873840}
   - component: {fileID: 5678577301717688885}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -355,7 +357,7 @@ GameObject:
   - component: {fileID: 4993956525174317206}
   - component: {fileID: 6893040413587542514}
   - component: {fileID: 1116762564685499915}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}

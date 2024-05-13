@@ -14,6 +14,7 @@ public class Fruit : MonoBehaviour
     public Sprite[] spriteList;
     public bool sliced;
     public AudioClip[] sliceSounds;
+
     [Header("Components")]
     protected private Rigidbody2D rig;
     public ParticleSystem ps;
@@ -22,6 +23,7 @@ public class Fruit : MonoBehaviour
     protected private GameManager manager;
     public SwordCursor player;
     public AudioSource audioSrc;
+
     [Header("Physics Vars")]
     public float minVelx;
     public float maxVelx;

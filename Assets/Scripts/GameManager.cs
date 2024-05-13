@@ -124,6 +124,8 @@ public class GameManager : MonoBehaviour
         points = 0;
         pointMult = 1f;
         spawnMinMax = defaultSpawnMinMax;
+        
+        //UI
         livesObjects = new List<TextMeshProUGUI>();
         foreach (TextMeshProUGUI life in lifeList)
         {

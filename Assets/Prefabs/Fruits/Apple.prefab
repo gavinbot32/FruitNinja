@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8064183725911943204}
   - component: {fileID: 2519880719178205625}
   - component: {fileID: 7228381295773609051}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Apple
   m_TagString: Fruit
   m_Icon: {fileID: 0}
@@ -144,7 +144,7 @@ GameObject:
   - component: {fileID: 399040167880935686}
   - component: {fileID: 7484124131480327163}
   - component: {fileID: 9220661871152350751}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5029,7 +5029,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2494452416837183613}
   - component: {fileID: 540531822329063331}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5113,7 +5113,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7649330693903726127}
   - component: {fileID: 1531149165567246983}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Audio Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}

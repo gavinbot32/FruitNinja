@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4178669926203137369}
   - component: {fileID: 5638666675149933842}
   - component: {fileID: 503512006758500563}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4898,7 +4898,7 @@ GameObject:
   - component: {fileID: 3533020899791826525}
   - component: {fileID: 5087661222519422202}
   - component: {fileID: 3331078874636787850}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Kiwi
   m_TagString: Fruit
   m_Icon: {fileID: 0}
@@ -5006,6 +5006,7 @@ MonoBehaviour:
   - {fileID: 1022831627, guid: b471de58aa6aaaf4b9d208e54cbf1627, type: 3}
   - {fileID: 1969473239, guid: b10bf23b6a2a13e41a80a33a0deadc6a, type: 3}
   - {fileID: -2144196787, guid: b10bf23b6a2a13e41a80a33a0deadc6a, type: 3}
+  sliced: 0
   sliceSounds:
   - {fileID: 8300000, guid: 7a9ee9f23a99e694782b902429afdf67, type: 3}
   - {fileID: 8300000, guid: 0cc40ffe378dd294c993f4624505394f, type: 3}
@@ -5013,6 +5014,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: e26ec63447773d74a904476af2950537, type: 3}
   ps: {fileID: 5638666675149933842}
   player: {fileID: 0}
+  audioSrc: {fileID: 0}
   minVelx: -5
   maxVelx: 5
   minVely: 8
@@ -5027,7 +5029,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6293557681645900749}
   - component: {fileID: 6776156179898669684}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5111,7 +5113,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6037942823231403380}
   - component: {fileID: 4353947520452194490}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Audio Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2291125953904888013}
   - component: {fileID: 388087645203410754}
   - component: {fileID: 8660336375693866596}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Particle System (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4899,7 +4899,7 @@ GameObject:
   - component: {fileID: 8230109110992978289}
   - component: {fileID: 7579099411167399785}
   - component: {fileID: -111964798139788555}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bomb
   m_TagString: Bomb
   m_Icon: {fileID: 0}
@@ -5113,7 +5113,7 @@ GameObject:
   - component: {fileID: 3846812909557459776}
   - component: {fileID: 7939504109766360314}
   - component: {fileID: 746492891015150708}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9940,7 +9940,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5020575043833614269}
   - component: {fileID: 4664731902816396636}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bomb
   m_TagString: Untagged
   m_Icon: {fileID: 0}

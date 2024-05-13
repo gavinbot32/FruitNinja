@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4032954555215238200}
   - component: {fileID: 1506179204534599462}
   - component: {fileID: 3374432725373296985}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Banana
   m_TagString: Fruit
   m_Icon: {fileID: 0}
@@ -120,6 +120,7 @@ MonoBehaviour:
   spriteList:
   - {fileID: 972876627, guid: b471de58aa6aaaf4b9d208e54cbf1627, type: 3}
   - {fileID: 2058498536, guid: b10bf23b6a2a13e41a80a33a0deadc6a, type: 3}
+  sliced: 0
   sliceSounds:
   - {fileID: 8300000, guid: 7a9ee9f23a99e694782b902429afdf67, type: 3}
   - {fileID: 8300000, guid: 0cc40ffe378dd294c993f4624505394f, type: 3}
@@ -127,6 +128,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: e26ec63447773d74a904476af2950537, type: 3}
   ps: {fileID: 4969052214270585650}
   player: {fileID: 0}
+  audioSrc: {fileID: 0}
   minVelx: -5
   maxVelx: 5
   minVely: 8
@@ -144,7 +146,7 @@ GameObject:
   - component: {fileID: 4902382304898019651}
   - component: {fileID: 7676154470380314646}
   - component: {fileID: 2455767701145182174}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4972,7 +4974,7 @@ GameObject:
   - component: {fileID: 6039311294052190207}
   - component: {fileID: 4969052214270585650}
   - component: {fileID: 5303038152974817385}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Burst
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9857,7 +9859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5483444354861370330}
   - component: {fileID: 5473562129957904529}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Audio Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9985,7 +9987,7 @@ GameObject:
   m_Component:
   - component: {fileID: 448946520368045324}
   - component: {fileID: 8399713240578895124}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
